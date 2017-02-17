@@ -1,0 +1,36 @@
+#MainContainer{
+	width: 995px;
+	height: auto;
+	text-align: center;
+}
+header{
+	width: 995px;
+	height: 70px;
+	background: #00a651;
+	line-height: 70px;
+}
+section{
+	width: 995px;
+	height: 500px;
+	line-height: 500px;
+	background: #7cc576;
+}
+.section2{
+	width: 995px;
+	height: 475px;
+	margin: 2.5px;
+}
+.divAll{
+	width: 325px;
+	height: 470px;
+	margin: 2.5px;
+	background: #00a651;
+	line-height: 470px;
+	float: left;
+}
+footer{
+	width: 995px;
+	height: 150px;
+	background: #00a651;
+	line-height: 150px;
+}
